@@ -1,27 +1,45 @@
-# ProjetoBuzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+<h1 align="center"> Projeto buzzfeed quizz clone</h1>
 
-## Development server
+![BuzzFeed](https://user-images.githubusercontent.com/54116971/204804326-72d20adc-ea6c-4f49-b3ce-a8fb578f0c48.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Code scaffolding
+[![GitHub issues](https://img.shields.io/github/issues/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/issues)
+[![GitHub forks](https://img.shields.io/github/forks/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/network)
+[![GitHub stars](https://img.shields.io/github/stars/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/stargazers)
+![GitHub Org's stars](https://img.shields.io/github/stars/francivaldolima?style=social)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2 align="center">Descrição do Projeto</h2>
+Simulação do buzzfeed quizz
 
-## Build
+ <h4 align="center"> 
+     :construction:  Projeto em construção :construction:
+</h4>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## :hammer:  Funcionalidades do projeto
+São Perguntas de multiplas escolhas e no final dependendo do que você marcar nas opções, acaba descobrindo o que você é um herói ou vilão.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+![BuzzFeed](https://user-images.githubusercontent.com/54116971/204804455-32aaf7b4-b6db-4f47-a933-64a5dae793c7.gif)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## ✔️ Técnicas e tecnologias utilizadas
+- ``TypeScript``
+- ``Visual Studio Code``
+- ``Lógica de programação``
+- ``CSS``
+- ``HTML``
+- ``Angular``
+
+
+## Autor
+[<img src="https://avatars.githubusercontent.com/u/54116971?v=4" width=115><br><sub>Francivaldo Lima</sub>](https://github.com/francivaldolima)
+
+
+
+
